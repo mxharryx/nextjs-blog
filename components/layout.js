@@ -2,7 +2,7 @@ import Head from 'next/head';
 import Image from 'next/image';
 import utilStyles from '../styles/utils.module.css';
 import styles from './layout.module.css';
-import Link from 'next/Link';
+import Link from 'next/link';
 
 const name = 'Harry';
 export const siteTitle = 'Next.js sample website';
